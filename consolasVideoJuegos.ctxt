@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=consolasVideoJuegos
+comment1.params=
+comment1.target=consolasVideoJuegos()
+comment10.params=minutos
+comment10.target=void\ agregarPartidaCoop(int)
+comment11.params=minutos
+comment11.target=void\ agregarPartidaOnline(int)
+comment2.params=
+comment2.target=void\ reiniciar()
+comment3.params=
+comment3.target=double\ darCostoServicios()
+comment4.params=
+comment4.target=int\ darNumeroPartidaSolo()
+comment5.params=
+comment5.target=int\ darNumeroPartidaCoop()
+comment6.params=
+comment6.target=int\ darNumeroPartidaOnline()
+comment7.params=
+comment7.target=int\ darNumeroServicios()
+comment8.params=
+comment8.target=int\ darNumeroMinutos()
+comment9.params=minutos
+comment9.target=void\ agregarPartidaSolo(int)
+numComments=12
